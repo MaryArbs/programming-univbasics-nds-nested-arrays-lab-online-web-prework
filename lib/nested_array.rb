@@ -40,6 +40,7 @@ def matrix_lookup(matrix, row, column)
     ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"],
     ["Hal Incandenza", "Lyle", "Gerhard Schtitt",  "Mario Incandenza",  "Michael Pemulis"]
   ]
+  matrix_lookup[1][1]
   # Return the matrix's content at row and column
 end
 
