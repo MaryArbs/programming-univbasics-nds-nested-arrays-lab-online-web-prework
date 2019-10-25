@@ -35,6 +35,11 @@ array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
+  matrix_lookup= [
+    
+    ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"],
+    ["Hal Incandenza", "Lyle", "Gerhard Schtitt",  "Mario Incandenza",  "Michael Pemulis"]
+  ]
   # Return the matrix's content at row and column
 end
 
